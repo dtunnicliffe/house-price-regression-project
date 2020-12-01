@@ -1,0 +1,268 @@
+,year,ncessch,school_name,state_name,lea_name,zip_location,latitude,longitude,county_code,school_level,school_type
+43,2015,530039000058,Ardmore Elementary School,Washington,Bellevue School District,98008,47.639590999999996,-122.11746699999999,53033.0,Primary,Regular school
+44,2015,530039000060,Bellevue High School,Washington,Bellevue School District,98004,47.604668,-122.19723400000001,53033.0,High,Regular school
+45,2015,530039000062,Bennett Elementary School,Washington,Bellevue School District,98008,47.624703000000004,-122.101974,53033.0,Primary,Regular school
+46,2015,530039000063,Cherry Crest Elementary School,Washington,Bellevue School District,98005,47.63944,-122.17371100000001,53033.0,Primary,Regular school
+47,2015,530039000064,Chinook Middle School,Washington,Bellevue School District,98004,47.62785,-122.210751,53033.0,Middle,Regular school
+48,2015,530039000065,Clyde Hill Elementary,Washington,Bellevue School District,98004,47.630829999999996,-122.21136100000001,53033.0,Primary,Regular school
+49,2015,530039000066,Eastgate Elementary School,Washington,Bellevue School District,98006,47.571498999999996,-122.13732900000001,53033.0,Primary,Regular school
+50,2015,530039000067,Enatai Elementary School,Washington,Bellevue School District,98007,47.61226,-122.138731,53033.0,Primary,Regular school
+51,2015,530039000068,Highland Middle School,Washington,Bellevue School District,98007,47.625671999999994,-122.140555,53033.0,Middle,Regular school
+52,2015,530039000072,Interlake Senior High School,Washington,Bellevue School District,98008,47.631346,-122.12353799999998,53033.0,High,Regular school
+53,2015,530039000075,Lake Hills Elementary,Washington,Bellevue School District,98007,47.6214,-122.1492,53033.0,Primary,Regular school
+54,2015,530039000076,Medina Elementary School,Washington,Bellevue School District,98039,47.61719,-122.23405100000001,53033.0,Primary,Regular school
+55,2015,530039000077,Newport Heights Elementary,Washington,Bellevue School District,98006,47.5556,-122.18094099999999,53033.0,Primary,Regular school
+56,2015,530039000078,Newport Senior High School,Washington,Bellevue School District,98006,47.5675,-122.17196499999999,53033.0,High,Regular school
+57,2015,530039000079,Odle Middle School,Washington,Bellevue School District,98006,47.549421,-122.18284299999999,53033.0,Middle,Regular school
+58,2015,530039000082,Phantom Lake Elementary,Washington,Bellevue School District,98008,47.60032,-122.12559499999999,53033.0,Primary,Regular school
+59,2015,530039000085,Sammamish Senior High,Washington,Bellevue School District,98005,47.60802,-122.15228799999998,53033.0,High,Regular school
+60,2015,530039000086,Sherwood Forest Elementary,Washington,Bellevue School District,98008,47.630590000000005,-122.12082099999999,53033.0,Primary,Regular school
+61,2015,530039000087,Somerset Elementary School,Washington,Bellevue School District,98006,47.563241,-122.15182800000001,53033.0,Primary,Regular school
+62,2015,530039000088,Spiritridge Elementary School,Washington,Bellevue School District,98008,47.587901,-122.12012299999999,53033.0,Primary,Regular school
+63,2015,530039000089,Stevenson Elementary,Washington,Bellevue School District,98007,47.61808,-122.150791,53033.0,Primary,Regular school
+64,2015,530039000090,Puesta del Sol Elementary School,Washington,Bellevue School District,98006,47.575881,-122.16383799999998,53033.0,Primary,Regular school
+65,2015,530039000093,Tillicum Middle School,Washington,Bellevue School District,98008,47.598384,-122.125747,53033.0,Middle,Regular school
+66,2015,530039000094,Tyee Middle School,Washington,Bellevue School District,98006,47.573370000000004,-122.159021,53033.0,Middle,Regular school
+67,2015,530039000096,Woodridge Elementary,Washington,Bellevue School District,98005,47.591957,-122.172876,53033.0,Primary,Regular school
+68,2015,530039003149,International School,Washington,Bellevue School District,98005,47.604123,-122.170332,53033.0,Other,Other/alternative school
+69,2015,530039003354,Bellevue Big Picture School,Washington,Bellevue School District,98007,47.59189,-122.141301,53033.0,Other,Other/alternative school
+70,2015,530039003434,Central Educational Services,Washington,Bellevue School District,98005,47.61058,-122.178731,53033.0,Other,Regular school
+71,2015,530039003455,Jing Mei Elementary School,Washington,Bellevue School District,98006,47.55256,-122.172301,53033.0,Primary,Regular school
+72,2015,530039003462,Grad Alliance Program,Washington,Bellevue School District,98005,47.61058,-122.178731,53033.0,High,Other/alternative school
+164,2015,530375000482,Cougar Ridge Elementary,Washington,Issaquah School District,98006,47.561898,-122.117426,53033.0,Primary,Regular school
+165,2015,530375000570,Apollo Elementary,Washington,Issaquah School District,98059,47.497298,-122.13901499999999,53033.0,Primary,Regular school
+166,2015,530375000571,Briarwood Elementary,Washington,Issaquah School District,98059,47.483301000000004,-122.11421499999999,53033.0,Primary,Regular school
+167,2015,530375000573,Issaquah Middle School,Washington,Issaquah School District,98027,47.526202000000005,-122.034774,53033.0,Middle,Regular school
+168,2015,530375000574,Issaquah High School,Washington,Issaquah School District,98027,47.522857,-122.02818400000001,53033.0,High,Regular school
+169,2015,530375000575,Issaquah Valley Elementary,Washington,Issaquah School District,98027,47.536709,-122.04518999999999,53033.0,Primary,Regular school
+170,2015,530375000576,Liberty Sr High School,Washington,Issaquah School District,98059,47.479781,-122.117618,53033.0,High,Regular school
+171,2015,530375000577,Maple Hills Elementary,Washington,Issaquah School District,98059,47.462309000000005,-122.06662800000001,53033.0,Primary,Regular school
+172,2015,530375000579,Maywood Middle School,Washington,Issaquah School District,98059,47.471313,-122.11485900000001,53033.0,Middle,Regular school
+173,2015,530375000580,Pine Lake Middle School,Washington,Issaquah School District,98075,47.581002000000005,-122.03433000000001,53033.0,Middle,Regular school
+174,2015,530375000581,Sunny Hills Elementary,Washington,Issaquah School District,98075,47.580418,-122.02846699999999,53033.0,Primary,Regular school
+175,2015,530375001490,Issaquah Special Services,Washington,Issaquah School District,98027,47.536704,-122.04516399999999,53033.0,Other,Special education school
+176,2015,530375001495,Beaver Lake Middle School,Washington,Issaquah School District,98029,47.579846999999994,-122.00558899999999,53033.0,Middle,Regular school
+177,2015,530375001773,Echo Glen School,Washington,Issaquah School District,98065,47.518925,-121.90123100000001,53033.0,Other,Regular school
+178,2015,530375002106,Tiger Mountain Community High School,Washington,Issaquah School District,98027,47.525412,-122.031361,53033.0,High,Other/alternative school
+179,2015,530375002107,Clark Elementary,Washington,Issaquah School District,98027,47.524291999999996,-122.029622,53033.0,Primary,Regular school
+180,2015,530375002214,Challenger Elementary,Washington,Issaquah School District,98029,47.577213,-122.004232,53033.0,Primary,Regular school
+181,2015,530375002307,Sunset Elementary,Washington,Issaquah School District,98008,47.56884,-122.101681,53033.0,Primary,Regular school
+182,2015,530375002426,Discovery Elementary,Washington,Issaquah School District,98075,47.58917,-122.03269099999999,53033.0,Primary,Regular school
+183,2015,530375002518,Endeavour Elementary School,Washington,Issaquah School District,98029,47.570283,-121.98828999999999,53033.0,Primary,Regular school
+184,2015,530375002567,Skyline High School,Washington,Issaquah School District,98075,47.600062,-122.032025,53033.0,High,Regular school
+185,2015,530375002881,Cascade Ridge Elementary,Washington,Issaquah School District,98075,47.591299,-121.973026,53033.0,Primary,Regular school
+186,2015,530375002981,Newcastle Elementary School,Washington,Issaquah School District,98059,47.526019,-122.16014399999999,53033.0,Primary,Regular school
+187,2015,530375003067,Grand Ridge Elementary,Washington,Issaquah School District,98029,47.546825,-122.004374,53033.0,Primary,Regular school
+188,2015,530375003167,Issaquah Head Start,Washington,Issaquah School District,98059,47.497245,-122.13900500000001,53033.0,Primary,Regular school
+189,2015,530375003331,Creekside Elementary,Washington,Issaquah School District,98075,47.594590000000004,-122.0637,53033.0,Primary,Regular school
+190,2015,530375003337,Pacific Cascade Middle School,Washington,Issaquah School District,98029,47.5594,-122.01141100000001,53033.0,Middle,Regular school
+234,2015,530423000656,Bell Elementary,Washington,Lake Washington School District,98033,47.701687,-122.191965,53033.0,Primary,Regular school
+235,2015,530423000657,Audubon Elementary,Washington,Lake Washington School District,98052,47.637368,-122.10141599999999,53033.0,Primary,Regular school
+236,2015,530423000658,Franklin Elementary,Washington,Lake Washington School District,98033,47.662154,-122.173419,53033.0,Primary,Regular school
+237,2015,530423000659,Rush Elementary,Washington,Lake Washington School District,98052,47.661762,-122.13876299999998,53033.0,Primary,Regular school
+238,2015,530423000660,Sandburg Elementary,Washington,Lake Washington School District,98034,47.715934999999995,-122.23045800000001,53033.0,Primary,Regular school
+239,2015,530423000661,Dickinson Elementary,Washington,Lake Washington School District,98053,47.670079,-122.059998,53033.0,Primary,Regular school
+240,2015,530423000663,Finn Hill Middle School,Washington,Lake Washington School District,98034,47.719941999999996,-122.23260900000001,53033.0,Middle,Regular school
+241,2015,530423000664,Ready Start Preschool,Washington,Lake Washington School District,98052,47.68761,-122.13918600000001,53033.0,Primary,Regular school
+242,2015,530423000666,Keller Elementary,Washington,Lake Washington School District,98034,47.724758,-122.195598,53033.0,Primary,Regular school
+243,2015,530423000667,Mann Elementary,Washington,Lake Washington School District,98052,47.691736,-122.112917,53033.0,Primary,Regular school
+244,2015,530423000668,Muir Elementary,Washington,Lake Washington School District,98034,47.726838,-122.163253,53033.0,Primary,Regular school
+245,2015,530423000669,Juanita Elementary,Washington,Lake Washington School District,98034,47.717901,-122.20926399999999,53033.0,Primary,Regular school
+246,2015,530423000670,Juanita High,Washington,Lake Washington School District,98034,47.715169,-122.19881399999998,53033.0,High,Regular school
+247,2015,530423000671,Kamiakin Middle School,Washington,Lake Washington School District,98034,47.727387,-122.165523,53033.0,Middle,Regular school
+248,2015,530423000672,Kirkland Middle School,Washington,Lake Washington School District,98033,47.690694,-122.200745,53033.0,Middle,Regular school
+249,2015,530423000673,Community School,Washington,Lake Washington School District,98033,47.663806,-122.19082399999999,53033.0,Primary,Other/alternative school
+250,2015,530423000674,Lake Washington High,Washington,Lake Washington School District,98033,47.673218,-122.18038,53033.0,High,Regular school
+251,2015,530423000675,Lakeview Elementary,Washington,Lake Washington School District,98033,47.667443,-122.20009499999999,53033.0,Primary,Regular school
+252,2015,530423000676,Twain Elementary,Washington,Lake Washington School District,98033,47.686886,-122.169389,53033.0,Primary,Regular school
+253,2015,530423000677,Kirk Elementary,Washington,Lake Washington School District,98033,47.685901,-122.195788,53033.0,Primary,Regular school
+254,2015,530423000678,Redmond Elementary,Washington,Lake Washington School District,98052,47.675503000000006,-122.11642900000001,53033.0,Primary,Regular school
+255,2015,530423000679,Redmond High,Washington,Lake Washington School District,98052,47.695202,-122.10661599999999,53033.0,High,Regular school
+256,2015,530423000680,Redmond Middle School,Washington,Lake Washington School District,98052,47.691897,-122.11979099999999,53033.0,Middle,Regular school
+257,2015,530423000681,Frost Elementary,Washington,Lake Washington School District,98034,47.725144,-122.18392,53033.0,Primary,Regular school
+258,2015,530423000682,Rose Hill Elementary,Washington,Lake Washington School District,98033,47.676659,-122.16863899999998,53033.0,Primary,Regular school
+259,2015,530423000683,Rose Hill Middle School,Washington,Lake Washington School District,98052,47.670766,-122.15993,53033.0,Middle,Regular school
+260,2015,530423000684,Thoreau Elementary,Washington,Lake Washington School District,98034,47.724803,-122.230654,53033.0,Primary,Regular school
+261,2015,530423001141,Eastlake High School,Washington,Lake Washington School District,98074,47.613559,-122.031221,53033.0,High,Regular school
+262,2015,530423001598,Contractual Schools,Washington,Lake Washington School District,98052,47.670916,-122.12347,53033.0,Other,Other/alternative school
+263,2015,530423001784,Emerson High School,Washington,Lake Washington School District,98033,47.65534,-122.19556599999999,53033.0,High,Other/alternative school
+264,2015,530423001785,Mead Elementary,Washington,Lake Washington School District,98074,47.625459,-122.053101,53033.0,Primary,Regular school
+265,2015,530423001841,Evergreen Middle School,Washington,Lake Washington School District,98053,47.66753,-122.06077900000001,53033.0,Middle,Regular school
+266,2015,530423001842,Rockwell Elementary,Washington,Lake Washington School District,98052,47.699443,-122.124705,53033.0,Primary,Regular school
+267,2015,530423001843,Northstar Middle School,Washington,Lake Washington School District,98033,47.65529,-122.195551,53033.0,Middle,Other/alternative school
+268,2015,530423002062,Alcott Elementary,Washington,Lake Washington School District,98053,47.646809000000005,-122.03756000000001,53033.0,Primary,Regular school
+269,2015,530423002216,Smith Elementary,Washington,Lake Washington School District,98074,47.620907,-122.02728,53033.0,Primary,Regular school
+270,2015,530423002257,Wilder Elementary,Washington,Lake Washington School District,98077,47.719525,-122.041494,53033.0,Primary,Regular school
+271,2015,530423002311,Mcauliffe Elementary,Washington,Lake Washington School District,98074,47.628685,-122.020843,53033.0,Primary,Regular school
+272,2015,530423002435,Inglewood Middle School,Washington,Lake Washington School District,98074,47.618559999999995,-122.01791100000001,53033.0,Middle,Regular school
+273,2015,530423002448,Discovery School,Washington,Lake Washington School District,98034,47.715924,-122.23046699999999,53033.0,Primary,Other/alternative school
+274,2015,530423002519,Explorer Community School,Washington,Lake Washington School District,98053,47.67004,-122.059995,53033.0,Primary,Other/alternative school
+275,2015,530423002568,International Community School,Washington,Lake Washington School District,98033,47.663806,-122.19082399999999,53033.0,Other,Other/alternative school
+276,2015,530423002648,Einstein Elementary,Washington,Lake Washington School District,98052,47.701889,-122.098297,53033.0,Primary,Regular school
+277,2015,530423002649,Blackwell Elementary,Washington,Lake Washington School District,98074,47.638814,-122.067025,53033.0,Primary,Regular school
+278,2015,530423002725,Emerson K-12,Washington,Lake Washington School District,98033,47.65529,-122.195551,53033.0,Other,Other/alternative school
+279,2015,530423002726,Environmental & Adventure School,Washington,Lake Washington School District,98034,47.719953000000004,-122.23259399999999,53033.0,Middle,Other/alternative school
+280,2015,530423002727,Futures School,Washington,Lake Washington School District,98034,47.715169,-122.19881399999998,53033.0,High,Other/alternative school
+281,2015,530423002983,Stella Schola,Washington,Lake Washington School District,98052,47.670778000000006,-122.15991000000001,53033.0,Middle,Other/alternative school
+282,2015,530423003070,Renaissance School,Washington,Lake Washington School District,98074,47.613559,-122.031221,53033.0,Middle,Other/alternative school
+283,2015,530423003077,Rosa Parks Elementary,Washington,Lake Washington School District,98053,47.685004,-122.034768,53033.0,Primary,Regular school
+284,2015,530423003242,Carson Elementary,Washington,Lake Washington School District,98074,47.61923,-122.015271,53033.0,Primary,Regular school
+285,2015,530423003289,Washington Network for Innovative Careers,Washington,Lake Washington School District,98052,47.70483,-122.16723,53033.0,High,Vocational school
+286,2015,530423003432,Tesla STEM High School,Washington,Lake Washington School District,98053,47.64868,-122.037761,53033.0,High,Other/alternative school
+300,2015,530498000758,Island Park Elementary,Washington,Mercer Island School District,98040,47.553599,-122.222602,53033.0,Primary,Regular school
+301,2015,530498000759,Lakeridge Elementary School,Washington,Mercer Island School District,98040,47.532258,-122.22885500000001,53033.0,Primary,Regular school
+302,2015,530498000761,Mercer Island High School,Washington,Mercer Island School District,98040,47.571806,-122.219268,53033.0,High,Regular school
+303,2015,530498000764,Islander Middle School,Washington,Mercer Island School District,98040,47.537428000000006,-122.228473,53033.0,Middle,Regular school
+304,2015,530498000765,West Mercer Elementary,Washington,Mercer Island School District,98040,47.571435,-122.23106200000001,53033.0,Primary,Regular school
+357,2015,530771001102,Pathfinder K-8 School,Washington,Seattle Public Schools,98116,47.565622,-122.39688000000001,53033.0,Primary,Other/alternative school
+358,2015,530771001127,Adams Elementary School,Washington,Seattle Public Schools,98107,47.673535,-122.39190500000001,53033.0,Primary,Regular school
+359,2015,530771001129,Alki Elementary School,Washington,Seattle Public Schools,98116,47.577356,-122.407789,53033.0,Primary,Regular school
+360,2015,530771001132,Licton Springs K-8,Washington,Seattle Public Schools,98103,47.659909999999996,-122.339891,53033.0,Primary,Other/alternative school
+361,2015,530771001135,Arbor Heights Elementary School,Washington,Seattle Public Schools,98106,47.54861,-122.362141,53033.0,Primary,Regular school
+362,2015,530771001136,Mercer International Middle School,Washington,Seattle Public Schools,98108,47.564152,-122.31211100000002,53033.0,Middle,Regular school
+363,2015,530771001137,Daniel Bagley Elementary School,Washington,Seattle Public Schools,98103,47.686307,-122.34228200000001,53033.0,Primary,Regular school
+364,2015,530771001138,Ballard High School,Washington,Seattle Public Schools,98117,47.676893,-122.37453400000001,53033.0,High,Regular school
+365,2015,530771001140,Beacon Hill International School,Washington,Seattle Public Schools,98144,47.585017,-122.31537800000001,53033.0,Primary,Regular school
+366,2015,530771001143,Martin Luther King Jr. Elementary School,Washington,Seattle Public Schools,98118,47.54198,-122.276781,53033.0,Primary,Regular school
+367,2015,530771001145,Broadview-Thomson K-8 School,Washington,Seattle Public Schools,98133,47.72463,-122.35436899999999,53033.0,Primary,Regular school
+368,2015,530771001146,Bryant Elementary School,Washington,Seattle Public Schools,98115,47.671702,-122.29204399999999,53033.0,Primary,Regular school
+369,2015,530771001149,Chief Sealth International High School,Washington,Seattle Public Schools,98126,47.52863,-122.366151,53033.0,High,Regular school
+370,2015,530771001150,Cleveland High School STEM,Washington,Seattle Public Schools,98108,47.552310999999996,-122.314016,53033.0,High,Regular school
+371,2015,530771001151,Frantz Coe Elementary School,Washington,Seattle Public Schools,98119,47.640795000000004,-122.365664,53033.0,Primary,Regular school
+372,2015,530771001154,Concord International School,Washington,Seattle Public Schools,98108,47.523584,-122.32451499999999,53033.0,Primary,Regular school
+373,2015,530771001157,B F Day Elementary School,Washington,Seattle Public Schools,98103,47.654740000000004,-122.34913999999999,53033.0,Primary,Regular school
+374,2015,530771001158,Dearborn Park International School,Washington,Seattle Public Schools,98108,47.552333000000004,-122.296195,53033.0,Primary,Regular school
+375,2015,530771001161,Dunlap Elementary School,Washington,Seattle Public Schools,98118,47.52517,-122.27468200000001,53033.0,Primary,Regular school
+376,2015,530771001162,Eckstein Middle School,Washington,Seattle Public Schools,98115,47.682386,-122.295014,53033.0,Middle,Regular school
+377,2015,530771001163,Emerson Elementary School,Washington,Seattle Public Schools,98118,47.514758,-122.258752,53033.0,Primary,Regular school
+378,2015,530771001168,Franklin High School,Washington,Seattle Public Schools,98144,47.576039,-122.293139,53033.0,High,Regular school
+379,2015,530771001169,Kimball Elementary School,Washington,Seattle Public Schools,98144,47.574425,-122.30293300000001,53033.0,Primary,Regular school
+380,2015,530771001171,Garfield High School,Washington,Seattle Public Schools,98122,47.605290000000004,-122.30186100000002,53033.0,High,Regular school
+381,2015,530771001172,Gatewood Elementary School,Washington,Seattle Public Schools,98136,47.540208,-122.38843899999999,53033.0,Primary,Regular school
+382,2015,530771001173,Bailey Gatzert Elementary School,Washington,Seattle Public Schools,98122,47.60113,-122.315496,53033.0,Primary,Regular school
+383,2015,530771001175,Graham Hill Elementary School,Washington,Seattle Public Schools,98118,47.5457,-122.26851,53033.0,Primary,Regular school
+384,2015,530771001176,Green Lake Elementary School,Washington,Seattle Public Schools,98103,47.676253,-122.32839299999999,53033.0,Primary,Regular school
+385,2015,530771001177,Greenwood Elementary School,Washington,Seattle Public Schools,98117,47.687287,-122.359907,53033.0,Primary,Regular school
+386,2015,530771001180,Hamilton International Middle School,Washington,Seattle Public Schools,98103,47.65745,-122.338021,53033.0,Middle,Regular school
+387,2015,530771001182,West Seattle Elementary School,Washington,Seattle Public Schools,98126,47.541686,-122.37398600000002,53033.0,Primary,Regular school
+388,2015,530771001183,Highland Park Elementary School,Washington,Seattle Public Schools,98106,47.525585,-122.348658,53033.0,Primary,Regular school
+389,2015,530771001187,Ingraham High School,Washington,Seattle Public Schools,98133,47.725745,-122.336904,53033.0,High,Regular school
+390,2015,530771001192,John Hay Elementary School,Washington,Seattle Public Schools,98109,47.632926,-122.35221899999999,53033.0,Primary,Regular school
+391,2015,530771001193,John Rogers Elementary School,Washington,Seattle Public Schools,98125,47.707103000000004,-122.28466599999999,53033.0,Primary,Regular school
+392,2015,530771001195,Lafayette Elementary School,Washington,Seattle Public Schools,98116,47.57997,-122.387148,53033.0,Primary,Regular school
+393,2015,530771001197,John Stanford International School,Washington,Seattle Public Schools,98105,47.657090999999994,-122.32386799999999,53033.0,Primary,Regular school
+394,2015,530771001198,Laurelhurst Elementary School,Washington,Seattle Public Schools,98105,47.66219,-122.27784299999999,53033.0,Primary,Regular school
+395,2015,530771001199,Lawton Elementary School,Washington,Seattle Public Schools,98199,47.657095,-122.390495,53033.0,Primary,Regular school
+396,2015,530771001201,Leschi Elementary School,Washington,Seattle Public Schools,98122,47.602218,-122.291627,53033.0,Primary,Regular school
+397,2015,530771001205,Lowell Elementary School - Seattle,Washington,Seattle Public Schools,98102,47.624811,-122.31841499999999,53033.0,Primary,Regular school
+398,2015,530771001206,Loyal Heights Elementary School,Washington,Seattle Public Schools,98117,47.686467,-122.389288,53033.0,Primary,Regular school
+399,2015,530771001207,Madison Middle School,Washington,Seattle Public Schools,98116,47.572914000000004,-122.39028200000001,53033.0,Middle,Regular school
+400,2015,530771001209,Maple Elementary School,Washington,Seattle Public Schools,98108,47.557990999999994,-122.31889299999999,53033.0,Primary,Regular school
+401,2015,530771001212,McClure Middle School,Washington,Seattle Public Schools,98119,47.636757,-122.358575,53033.0,Middle,Regular school
+402,2015,530771001214,McGilvra Elementary School,Washington,Seattle Public Schools,98112,47.634021000000004,-122.28481299999999,53033.0,Primary,Regular school
+403,2015,530771001216,Madrona K-8 School,Washington,Seattle Public Schools,98122,47.612293,-122.29089599999999,53033.0,Primary,Regular school
+404,2015,530771001219,Montlake Elementary School,Washington,Seattle Public Schools,98112,47.640644,-122.304252,53033.0,Primary,Regular school
+405,2015,530771001221,John Muir Elementary School,Washington,Seattle Public Schools,98144,47.573365,-122.290826,53033.0,Primary,Regular school
+406,2015,530771001222,Nathan Hale High School,Washington,Seattle Public Schools,98125,47.707683,-122.29466699999999,53033.0,High,Regular school
+407,2015,530771001223,North Beach Elementary School,Washington,Seattle Public Schools,98117,47.69481,-122.38711599999999,53033.0,Primary,Regular school
+408,2015,530771001225,Northgate Elementary School,Washington,Seattle Public Schools,98125,47.714754,-122.329315,53033.0,Primary,Regular school
+409,2015,530771001226,Nova High School,Washington,Seattle Public Schools,98122,47.604408,-122.305089,53033.0,High,Other/alternative school
+410,2015,530771001228,Olympic Hills Elementary School,Washington,Seattle Public Schools,98125,47.723956,-122.30696299999998,53033.0,Primary,Regular school
+411,2015,530771001229,Olympic View Elementary School,Washington,Seattle Public Schools,98115,47.698161,-122.32112099999999,53033.0,Primary,Regular school
+412,2015,530771001234,South Lake High School,Washington,Seattle Public Schools,98118,47.5245,-122.271551,53033.0,High,Other/alternative school
+413,2015,530771001236,Rainier Beach High School,Washington,Seattle Public Schools,98118,47.524526,-122.26631,53033.0,High,Regular school
+414,2015,530771001239,Roosevelt High School,Washington,Seattle Public Schools,98115,47.677287,-122.31276299999999,53033.0,High,Regular school
+415,2015,530771001240,Roxhill Elementary School,Washington,Seattle Public Schools,98126,47.518,-122.37090900000001,53033.0,Primary,Regular school
+416,2015,530771001242,Sacajawea Elementary School,Washington,Seattle Public Schools,98115,47.698484,-122.30751699999999,53033.0,Primary,Regular school
+417,2015,530771001244,Sanislo Elementary School,Washington,Seattle Public Schools,98106,47.539871999999995,-122.358833,53033.0,Primary,Regular school
+418,2015,530771001245,Schmitz Park Elementary School,Washington,Seattle Public Schools,98116,47.572655,-122.396592,53033.0,Primary,Regular school
+419,2015,530771001249,Aki Kurose Middle School,Washington,Seattle Public Schools,98118,47.546504999999996,-122.28249299999999,53033.0,Middle,Regular school
+420,2015,530771001251,Stevens Elementary School,Washington,Seattle Public Schools,98112,47.631887,-122.30811499999999,53033.0,Primary,Regular school
+421,2015,530771001253,Thornton Creek Elementary School,Washington,Seattle Public Schools,98115,47.685569,-122.28250700000001,53033.0,Primary,Other/alternative school
+422,2015,530771001255,Van Asselt Elementary School,Washington,Seattle Public Schools,98108,47.538028000000004,-122.29616899999999,53033.0,Primary,Regular school
+423,2015,530771001256,View Ridge Elementary School,Washington,Seattle Public Schools,98115,47.680581,-122.276103,53033.0,Primary,Regular school
+424,2015,530771001259,Washington Middle School,Washington,Seattle Public Schools,98144,47.598394,-122.30388500000001,53033.0,Middle,Regular school
+425,2015,530771001261,Wedgwood Elementary School,Washington,Seattle Public Schools,98115,47.690553,-122.29711999999999,53033.0,Primary,Regular school
+426,2015,530771001262,West Seattle High School,Washington,Seattle Public Schools,98116,47.576899,-122.384499,53033.0,High,Regular school
+427,2015,530771001263,West Woodland Elementary School,Washington,Seattle Public Schools,98107,47.670158,-122.36265300000001,53033.0,Primary,Regular school
+428,2015,530771001264,Whitman Middle School,Washington,Seattle Public Schools,98117,47.697075,-122.37775400000001,53033.0,Middle,Regular school
+429,2015,530771001265,Whittier Elementary School,Washington,Seattle Public Schools,98117,47.683653,-122.373356,53033.0,Primary,Regular school
+430,2015,530771001267,Wing Luke Elementary School,Washington,Seattle Public Schools,98118,47.530615000000004,-122.28508000000001,53033.0,Primary,Regular school
+431,2015,530771001307,Tops K-8 School,Washington,Seattle Public Schools,98102,47.642466999999996,-122.32415900000001,53033.0,Primary,Other/alternative school
+432,2015,530771001311,Seattle World School,Washington,Seattle Public Schools,98112,47.621590000000005,-122.305301,53033.0,Other,Other/alternative school
+433,2015,530771001365,Interagency Programs,Washington,Seattle Public Schools,98134,47.5805,-122.33031100000001,53033.0,Other,Other/alternative school
+434,2015,530771001913,David T. Denny International Middle School,Washington,Seattle Public Schools,98126,47.527236,-122.37036,53033.0,Middle,Regular school
+435,2015,530771002017,Catharine Blaine K-8 School,Washington,Seattle Public Schools,98199,47.642841,-122.400346,53033.0,Primary,Regular school
+436,2015,530771002231,Orca K-8 School,Washington,Seattle Public Schools,98118,47.554584999999996,-122.27584399999999,53033.0,Primary,Other/alternative school
+437,2015,530771002269,Hawthorne Elementary School - Seattle,Washington,Seattle Public Schools,98118,47.565769,-122.283372,53033.0,Primary,Regular school
+438,2015,530771002347,Thurgood Marshall Elementary,Washington,Seattle Public Schools,98144,47.590978,-122.29933500000001,53033.0,Primary,Regular school
+439,2015,530771002349,Middle College High School,Washington,Seattle Public Schools,98125,47.70624,-122.32604099999999,53033.0,High,Regular school
+440,2015,530771002634,Education Service Centers,Washington,Seattle Public Schools,98108,47.6951,-122.34048100000001,53033.0,Other,Other/alternative school
+441,2015,530771002635,Cascade Parent Partnership Program,Washington,Seattle Public Schools,98119,47.64627,-122.35861100000001,53033.0,Other,Other/alternative school
+442,2015,530771002716,Salmon Bay K-8 School,Washington,Seattle Public Schools,98117,47.676583,-122.38056499999999,53033.0,Primary,Other/alternative school
+443,2015,530771002718,Experimental Education Unit,Washington,Seattle Public Schools,98195,47.65074,-122.3076,53033.0,Primary,Special education school
+444,2015,530771002842,The Center School,Washington,Seattle Public Schools,98109,47.621713,-122.34828999999999,53033.0,High,Regular school
+445,2015,530771002873,Residential Consortium,Washington,Seattle Public Schools,98119,47.638773,-122.369972,53033.0,Other,Special education school
+446,2015,530771002928,Interagency Detention School,Washington,Seattle Public Schools,98122,47.603914,-122.316042,53033.0,Other,Regular school
+447,2015,530771002933,South Shore PK-8 School,Washington,Seattle Public Schools,98118,47.523337,-122.272377,53033.0,Primary,Regular school
+448,2015,530771002935,Hutch School,Washington,Seattle Public Schools,98109,47.623511,-122.33335600000001,53033.0,Other,Other/alternative school
+449,2015,530771003033,Birth to 3 Contracts,Washington,Seattle Public Schools,98134,47.581291,-122.330976,53033.0,Primary,Special education school
+450,2015,530771003046,Private School Services,Washington,Seattle Public Schools,98124,47.615455,-122.346597,53033.0,Other,Special education school
+451,2015,530771003271,Hazel Wolf K-8,Washington,Seattle Public Schools,98115,47.67716,-122.32248100000001,53033.0,Primary,Regular school
+452,2015,530771003316,Sand Point Elementary,Washington,Seattle Public Schools,98115,47.67365,-122.26293100000001,53033.0,Primary,Regular school
+453,2015,530771003318,Queen Anne Elementary,Washington,Seattle Public Schools,98109,47.63796,-122.34896100000002,53033.0,Primary,Regular school
+454,2015,530771003332,McDonald International School,Washington,Seattle Public Schools,98105,47.66827,-122.326591,53033.0,Primary,Regular school
+455,2015,530771003356,Viewlands Elementary School,Washington,Seattle Public Schools,98177,47.70597,-122.361121,53033.0,Primary,Regular school
+456,2015,530771003361,Rainier View Elementary School,Washington,Seattle Public Schools,98178,47.498678000000005,-122.26428500000002,53033.0,Primary,Regular school
+457,2015,530771003390,Cascadia Elementary,Washington,Seattle Public Schools,98103,47.659909999999996,-122.339891,53033.0,Primary,Regular school
+458,2015,530771003414,Seattle Skills Center,Washington,Seattle Public Schools,98124,47.5805,-122.33031100000001,53033.0,High,Vocational school
+459,2015,530771003426,STEM K-8,Washington,Seattle Public Schools,98106,47.54861,-122.362141,53033.0,Primary,Regular school
+460,2015,530771003467,Jane Addams Middle School,Washington,Seattle Public Schools,98125,47.70986,-122.292751,53033.0,Middle,Regular school
+461,2015,530771003497,Fairmount Park Elementary School,Washington,Seattle Public Schools,98126,47.5527,-122.38029099999999,53033.0,Primary,Regular school
+462,2015,530771003505,Interagency Open Doors,Washington,Seattle Public Schools,98118,47.558170000000004,-122.28711100000001,53033.0,High,Other/alternative school
+463,2015,530771003555,Bridges Transition,Washington,Seattle Public Schools,98108,47.537827,-122.294379,53033.0,High,Special education school
+464,2015,530792000404,Meridian Park Elementary School,Washington,Shoreline School District,98133,47.754978,-122.33615400000001,53033.0,Primary,Regular school
+465,2015,530792001297,Albert Einstein Middle School,Washington,Shoreline School District,98177,47.769703,-122.36291299999999,53033.0,Middle,Regular school
+466,2015,530792001299,Briarcrest Elementary,Washington,Shoreline School District,98155,47.742231,-122.297651,53033.0,Primary,Regular school
+467,2015,530792001300,Brookside Elementary,Washington,Shoreline School District,98155,47.754942,-122.29004199999999,53033.0,Primary,Regular school
+468,2015,530792001302,Echo Lake Elementary School,Washington,Shoreline School District,98133,47.769997,-122.339175,53033.0,Primary,Regular school
+469,2015,530792001304,Highland Terrace Elementary,Washington,Shoreline School District,98133,47.745585,-122.35908300000001,53033.0,Primary,Regular school
+470,2015,530792001308,Kellogg Middle School,Washington,Shoreline School District,98155,47.745614,-122.302972,53033.0,Middle,Regular school
+471,2015,530792001309,Lake Forest Park Elementary,Washington,Shoreline School District,98155,47.763064,-122.287846,53033.0,Primary,Regular school
+472,2015,530792001310,Melvin G Syre Elementary,Washington,Shoreline School District,98177,47.771743,-122.372607,53033.0,Primary,Regular school
+473,2015,530792001313,Parkwood Elementary,Washington,Shoreline School District,98133,47.740738,-122.336575,53033.0,Primary,Regular school
+474,2015,530792001314,Ridgecrest Elementary,Washington,Shoreline School District,98155,47.749256,-122.317654,53033.0,Primary,Regular school
+475,2015,530792001315,Shorecrest High School,Washington,Shoreline School District,98155,47.74087,-122.30339099999999,53033.0,High,Regular school
+476,2015,530792001317,Shorewood High School,Washington,Shoreline School District,98133,47.753598,-122.350053,53033.0,High,Regular school
+477,2015,530792002447,Handicapped Contractual Services,Washington,Shoreline School District,98155,47.764832,-122.32826200000001,53033.0,Other,Special education school
+478,2015,530792002646,Home Education Exchange,Washington,Shoreline School District,98155,47.76715,-122.320531,53033.0,Other,Other/alternative school
+479,2015,530792002912,Fircrest Residential Habilitation,Washington,Shoreline School District,98155,47.7392,-122.312871,53033.0,Other,Regular school
+480,2015,530792003116,Cascade K-8 Community School,Washington,Shoreline School District,98133,47.754978,-122.33615400000001,53033.0,Primary,Other/alternative school
+481,2015,530792003405,Early Childhood Education,Washington,Shoreline School District,98133,47.754978,-122.33615400000001,53033.0,Primary,Regular school
+482,2015,530792003445,Head Start,Washington,Shoreline School District,98133,47.754978,-122.33615400000001,53033.0,Primary,Regular school
+485,2015,530804001329,Fall City Elementary,Washington,Snoqualmie Valley School District,98024,47.569503999999995,-121.89605800000001,53033.0,Primary,Regular school
+486,2015,530804001330,Mount Si High School,Washington,Snoqualmie Valley School District,98065,47.522453000000006,-121.81674199999999,53033.0,High,Regular school
+487,2015,530804001331,North Bend Elementary School,Washington,Snoqualmie Valley School District,98045,47.493934,-121.778994,53033.0,Primary,Regular school
+488,2015,530804001332,Snoqualmie Elementary,Washington,Snoqualmie Valley School District,98065,47.523315000000004,-121.80996200000001,53033.0,Primary,Regular school
+489,2015,530804002158,Two Rivers School,Washington,Snoqualmie Valley School District,98045,47.496128999999996,-121.78203899999998,53033.0,Other,Other/alternative school
+490,2015,530804002239,Edwin R Opstad Elementary,Washington,Snoqualmie Valley School District,98045,47.480251,-121.76680400000001,53033.0,Primary,Regular school
+491,2015,530804002439,Chief Kanim Middle School,Washington,Snoqualmie Valley School District,98024,47.569542999999996,-121.904997,53033.0,Middle,Regular school
+492,2015,530804002980,Cascade View Elementary School,Washington,Snoqualmie Valley School District,98065,47.532154,-121.875528,53033.0,Primary,Regular school
+493,2015,530804003252,Twin Falls Middle School,Washington,Snoqualmie Valley School District,98045,47.47363,-121.71474099999999,53033.0,Middle,Regular school
+494,2015,530804003309,Snoqualmie Access,Washington,Snoqualmie Valley School District,98065,47.528620000000004,-121.828461,53033.0,Other,Special education school
+495,2015,530804003394,Snoqualmie Parent Partnership Program,Washington,Snoqualmie Valley School District,98045,47.494569,-121.78006699999999,53033.0,Other,Other/alternative school
+496,2015,530804003503,SVSD OPEN DOORS,Washington,Snoqualmie Valley School District,98065,47.528620000000004,-121.828461,53033.0,High,Other/alternative school
+504,2015,530876000692,Rock Creek Elementary,Washington,Tahoma School District,98038,47.371918,-122.021492,53033.0,Primary,Regular school
+505,2015,530876001463,Glacier Park Elementary,Washington,Tahoma School District,98038,47.35164,-122.02540800000001,53033.0,Primary,Regular school
+506,2015,530876001515,Cedar River Middle School,Washington,Tahoma School District,98038,47.398371999999995,-122.051299,53033.0,Middle,Regular school
+507,2015,530876001516,Lake Wilderness Elementary,Washington,Tahoma School District,98038,47.384097,-122.046954,53033.0,Primary,Regular school
+508,2015,530876001517,Shadow Lake Elementary,Washington,Tahoma School District,98038,47.39887,-122.047025,53033.0,Primary,Regular school
+509,2015,530876001519,Tahoma Senior High School,Washington,Tahoma School District,98042,47.38863,-122.100408,53033.0,High,Regular school
+510,2015,530876002645,Russell Ridge Center,Washington,Tahoma School District,98038,47.398371999999995,-122.051226,53033.0,Not applicable,Other/alternative school
+511,2015,530876002874,Tahoma Jr High,Washington,Tahoma School District,98051,47.372791,-122.00016299999999,53033.0,Middle,Regular school
+512,2015,530876002979,Tahoma Middle School,Washington,Tahoma School District,98038,47.407610999999996,-122.01501100000002,53033.0,Middle,Regular school
+513,2015,530930001394,Chautauqua Elementary,Washington,Vashon Island School District,98070,47.427518,-122.452725,53033.0,Other,Regular school
+514,2015,530930001589,McMurray Middle School,Washington,Vashon Island School District,98070,47.428205,-122.454536,53033.0,Middle,Regular school
+515,2015,530930001591,Vashon Island High School,Washington,Vashon Island School District,98070,47.42342,-122.458991,53033.0,High,Regular school
+516,2015,530930002720,Family Link,Washington,Vashon Island School District,98070,47.423241,-122.45810700000001,53033.0,Other,Other/alternative school
+517,2015,530930003112,Student Link,Washington,Vashon Island School District,98070,47.42329,-122.458201,53033.0,High,Other/alternative school
