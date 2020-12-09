@@ -84,6 +84,8 @@ Our best model had an R-squared value of 0.761, telling us that the model fit th
 
 The prob(F-statistic) of 0.00 tells us that there is an extremely low probability of achieving these results with the null hypothesis being true, and tells us that our regression is meaningful. Our p-values for our features are well below our alpha or significance level, showing that they are each contributing to the model significantly. With an alpha of 0.05, at a confidence level of 95%, we reject the null hypothesis that there is no relationship between our features and our target variable, price.
 
+## Recommendations
+
 Our recommendations are as follows:
 * increase square-footage of living space
 * attain the highest possible building grade
@@ -92,6 +94,8 @@ Our recommendations are as follows:
 * build and develop homes in close proximity to a scientology church
 
 By following the above recommendations, a housing development company in King County can increase their chances of selling higher-priced homes.
+
+## Future Work
 
 In the future, our next steps would be reducing noise in the data to improve the accuracy of our model. Additionally, we would like to investigate certain features, such as constructional/architectural values of the house, to see what trends we could discern from that. Some ideas would be whether basements are correlated with higher house prices, or whether the amount of bathrooms has an impact. 
 
