@@ -49,16 +49,23 @@ There is a positive correlation between building grade and home sale price. As t
 
 ![graph](./visualizations/price_school_2.png)
 
-There is a negative correlation between distance from a top school and home sale price. As the distance to a top school decreases, house price increases.  
+There is a negative correlation between distance from a top school and home sale price. As the distance to a top school decreases, house price increases. 
 
-Similarly, we see a negative correlation between distance from a scientology church and home sale price. And we also found a negative correlation between distance from a great coffee shop and home sale price. 
+![graph](./visualizations/price_coffee_2.png)
+
+Similarly, we see a negative correlation between distance from a great coffee shop and home sale price.
+
+![graph](./visualizations/map.png)
+
+
+And surprisingly, we see a negative correlation between distance from a scientology church and home sale price as well. 
+
+
+ 
 
 ![graph](./visualizations/features_barplot.png)
 
 We found that square-footage of living space had the highest impact on our R-squared value for predicting home price, followed by proximity to top schools, building grade, proximity to a scientology church, and proximity to a highly rated coffee shop.   
-
-
-![graph](./visualizations/all_map.png)
 
 Houses that have more square-footage of living space, a higher building grade, and proximity to the above-mentioned features tend to be higher in price.     
 
